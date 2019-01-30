@@ -1,3 +1,8 @@
-console.log(2<<1)
+let arr=[1,2,3];
 
-100
+arr.forEach(item=>{
+    item+=1;
+    console.log(item)
+})
+
+console.log(arr);
