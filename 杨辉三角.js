@@ -14,3 +14,4 @@ var generate = function(numRows) {
     
     return arr
 };
+  
